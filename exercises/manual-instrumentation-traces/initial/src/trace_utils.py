@@ -1,3 +1,4 @@
+# Initialize trace_util
 from opentelemetry.sdk.trace.export import ConsoleSpanExporter, BatchSpanProcessor
 from opentelemetry import trace as trace_api
 from opentelemetry.sdk.trace import TracerProvider

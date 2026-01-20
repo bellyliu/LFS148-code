@@ -1,3 +1,4 @@
+# Add resource attributes
 from opentelemetry.sdk.resources import Resource
 from opentelemetry.semconv.resource import ResourceAttributes
 
